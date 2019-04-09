@@ -1,0 +1,11 @@
+{
+  "name": "bamazon2",
+  "version": "1.0.0",
+  "description": "'homework'",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kyle kinzey",
+  "license": "ISC"
+}
